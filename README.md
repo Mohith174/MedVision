@@ -1,4 +1,4 @@
-# 🏥 AI Healthcare Hackathon Project  
+# 🏥 MedVision AI Project  
 ---
 
 ## 💡 Inspiration  
